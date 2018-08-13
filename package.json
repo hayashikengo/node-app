@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hkengo/node-app/issues"
   },
-  "homepage": "https://github.com/hkengo/node-app#readme"
+  "homepage": "https://github.com/hkengo/node-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
